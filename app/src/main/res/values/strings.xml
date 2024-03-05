@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clase_01-Reciclerview</string>
+    <string name="ingrese_el_monto">Ingrese el monto</string>
+    <string name="ingrese_los_d_as">Ingrese los días</string>
+    <string name="ingrese_la_tasa">Ingrese la tasa</string>
+    <string name="calcular">Calcular</string>
+</resources>
